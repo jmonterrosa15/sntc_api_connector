@@ -1,0 +1,25 @@
+[{
+    "hostname": "Device_Hostname",
+    "ipAddress": "123.123.123.123",
+    "serialNumber": "abc12345678",
+    "productId": "my-product-id",
+    "swType":"NX-OS",
+    "swVersion":"5.0(1a)"
+},
+{
+    "hostname": "Device_Hostname",
+    "ipAddress": "123.123.123.123",
+    "serialNumber": "abc12345678",
+    "productId": "my-product-id",
+    "swType":"NX-OS",
+    "swVersion":"5.0(1a)"
+},
+{
+    "hostname":"Device_Hostname",
+    "ipAddress": "123.123.123.123",
+    "serialNumber": "abc12345678",
+    "productId": "my-product-id",
+    "swType":"IOS",
+    "swVersion":"12.2(58)SE2"
+}
+]
